@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<hmtl>
+<head>
+  <title>Patapon Zone</title>
+</head>
+<body>
+  <!--I'm awesome-->
+  <a href="https://en.wikipedia.org/wiki/Patapon" target="_blank" title="Patapon's are awesome!">
+    <img src="/images/pataponwarrior.jpg" title="Patapon's are awesome!" alt="Picture of a patapon warrior" height="300">
+  </a>
+  <br>
+  <hr>
+  <a href="https://www.google.com/" target="_blank" title="This will take you to google">
+    Google
+  </a>
+  <br>
+  <hr>
+  <a href="mailto:avparello@gmail.com" target="_blank" title="This will take you to my email">
+    My Email
+  </a>
+  <br>
+  <hr>
+  <a href="page2.html" target="_self" title="This will take you to page 2">
+    Page 2
+  </a>
+  <br>
+  <hr>
+</body>
+</hmtl>
+<!--This is page 2 below here-->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+  <p>This is page 2 hehehehe</p>
+</body>
+</html>
