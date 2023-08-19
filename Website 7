@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>My first website</title>
+</head>
+<body>
+  <a href="https://en.wikipedia.org/wiki/Patapon" target="_blank">
+  <img src="/images/pataponwarrior.jpg" height="300" width="300" title="Patapon warriors are awesome!" alt="This is a picture of a patapon warrior">
+  </a>
+</body>
+</html>
