@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+  <!--1 more practice run and then I move on!-->
+  <head>
+    <title>Patatpon Haven</title>
+  </head>
+  <body>
+    <a target="_blank" href="https://en.wikipedia.org/wiki/Patapon">
+      <img title="This patapon is a real one" alt="Patapon warrior" height="300" src="images/pataponwarrior.jpg">
+    </a>
+    <br>
+    <hr>
+    <a title="This is a link to Google" target="_blank" href="https://www.google.com/">
+      Google
+    </a>
+    <br>
+    <hr>
+    <a title="This is where you can email me" target="_self" href="mailto:avparello@gmail.com">
+      My Email
+    </a>
+    <br>
+    <hr>
+    <a title="This will take you to page 2" target="_blank" href="page2.html">
+      Page 2
+    </a>
+    <br>
+    <hr>  
+  </body>
+</html>
+<!--below is html code for page 2-->
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+  </head>
+  <body>
+    <h1>This is page 2 haha</h1>  
+  </body>
+</html>
