@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>My 3rd website</title>
+</head>
+<body>
+  <!--After doing this 3 times I feel like I am ready to move to the next stuff!-->  
+  <h1>This is my website!</h1>
+  <hr>
+  <h1>I like pizza!</h1>
+  <br>
+  <h2>I like pizza!</h2>
+  <br>
+  <h3>I like pizza!</h3>
+  <br>
+  <h4>I like pizza!</h4>
+  <br>
+  <h5>I like pizza!</h5>
+  <br>
+  <h6>I like pizza!</h6>
+  <br>
+  <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Eos reprehenderit quam magni expedita maxime veniam dolorem nostrum tempora aspernatur, cumque, amet soluta consequatur, quisquam architecto a alias reiciendis optio cupiditate?</p>
+  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cum aliquid voluptate excepturi eos quas? Incidunt soluta neque dolore ipsa laudantium adipisci recusandae numquam necessitatibus? Repellat debitis est minus. Consequuntur, necessitatibus.</p>
+</body>
+</html>
