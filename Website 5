@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>My first website</title>
+</head>  
+<body>
+  <a href="https://www.google.com/" target="_blank" title="This takes you to google">Google</a>
+  <br>
+  <hr>
+  <a href="mailto:avparello@gmail.com" target="_blank" title="This is where you can email me">Email</a>
+  <br>
+  <hr>
+  <a href="page2.html" target="_self" title="This takes you to page 2">Page 2</a>
+  <!--I'm getting the hang of this!-->
+</body>  
+</html>
+<!--This is page 2 below-->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Page 2</title>
+</head>
+<body>
+  <p>This is page 2</p>    
+</body>
+</html>
