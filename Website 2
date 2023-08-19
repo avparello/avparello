@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>My 2nd website</title>
+</head>
+<body>
+  <!--This training is coming along well!-->  
+  <h1>This is my website!</h1>
+  <hr>  
+  <h1>I like pizza!</h1>
+  <br>
+  <h2>I like pizza!</h2>
+  <br>
+  <h3>I like pizza!</h3>
+  <br>
+  <h4>I like pizza!</h4>
+  <br>
+  <h5>I like pizza!</h5>
+  <br>
+  <h6>I like pizza!</h6>
+  <br>
+  <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Voluptatem excepturi exercitationem, necessitatibus praesentium alias possimus numquam consectetur ullam architecto odit laborum iure officia maiores enim repellat sequi asperiores pariatur voluptas!</p>
+  <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Harum, aliquid earum maiores aspernatur totam molestiae perspiciatis error placeat tempore deleniti vitae ut sapiente aliquam facilis maxime reiciendis pariatur fuga sed.</p>
+</body>
+</html>
