@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+  <title>My first website</title>
+</head>
+<body>
+  <a href="https://www.google.com/" target=_blank title="This takes you to Google">
+    Google
+  </a>
+  <br>
+  <hr>
+  <a href="mailto:avparello@gmail.com" target=_self title="This is where you can email me">
+    Email me!
+  </a>
+  <br>
+  <hr>
+  <a href="page2.html" target=_blank title="This takes you to page 2">
+    Click here to go to page 2!
+  </a>
+</body>
+</html>
+<!--This is page 2 below this comment-->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+  <h1>This is page 2</h1>   
+</body>
+</html>
