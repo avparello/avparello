@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+  <!--practice daily woot-->
+  <head>
+    <title>Patapon Zone</title>
+    <meta charset="UTF-8">
+    <meta name="description" content="Patpon wiki and stuff">
+    <meta name="keywords" content="Patapon, Hetapon, Hexapon">
+    <meta name="author" content="Anthony">
+    <meta name="viewport" content="width-device-width, intitial-scale=1.0">
+  </head>
+  <body>
+    <h1>Patapon Zone</h1>
+    <hr>
+    <figure>
+      <a target="_self" href="https://patapon.fandom.com/wiki/Patapedia">
+        <img alt="Patapon warrior with a shield" width="300" title="Check out the wiki!" src="images/pataponwarrior.jpg">
+      </a>
+      <figcaption><u>This</u> <i>is</i> the <b>rank 1</b> patapon!</figcaption>
+    </figure>
+    <hr>
+    <a title="This links to Youtube" target="_self" href="https://www.youtube.com/">YouTube</a>
+    <hr>
+    <a title="This is page 2" target="_self" href="page2.html">Page 2</a>
+    <hr>
+    <a title="This is where you can email me" target="_self" href="mailto:avparello@gmail.com">Email</a>  
+    <hr>
+    <audio controls loop autoplay>
+      <source src="audio/1-03. Hoi Ya Hoi! Festival.mp3">
+      <source src="audio/1-03. Hoi Ya Hoi! Festival.wav">
+    </audio>
+  </body>
+</html>
+  <!--below is page 2 hmtl stuff-->
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Page 2</title>
+    <meta charset="UTF-8">
+    <meta name="description" content="Patpon wiki and stuff">
+    <meta name="keywords" content="Patapon, Hetapon, Hexapon">
+    <meta name="author" content="Anthony">
+    <meta name="viewport" content="width-device-width, intitial-scale=1.0">
+  </head>
+  <body>
+    <p lang="en">this is page 2 get scammed lol</p>
+    <audio loop autoplay>
+      <source src="audio/1-03. Hoi Ya Hoi! Festival.mp3">
+      <source src="audio/1-03. Hoi Ya Hoi! Festival.wav">
+    </audio> 
+  </body>
+</html>  
