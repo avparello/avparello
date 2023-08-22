@@ -1,0 +1,31 @@
+<DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Chicken Nuggets</title>
+    <meta charset="UTF-8">
+    <meta title="author" content="Anthony">
+  </head>    
+  <body>
+    <h1>Chicken Nuggets</h1>
+    <hr>
+    <figure>
+    <img height="300" src="content://com.android.externalstorage.documents/document/primary%3ASnapchat%2FSnapchat-1064229700.jpg">
+    <figcaption><b>me lol</b></figcaption>
+    </figure>
+    <hr>
+    <p><i>We</i> are currently <b>waiting</b> for our chicken nuggets and fries to finish cooking and then we chillin. Stay tuned!</p>
+    <hr>
+    <p>Listen to this nice song while we wait!</p>
+    <hr>
+    <audio controls loop>
+      <source src="content://com.android.externalstorage.documents/document/primary%3ADownload%2Flilzenny.mp3"></source>
+    </audio>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <p>Feel free to email me if it's taking too long!</p>
+    <a href="mailto:avparello@gmail.com">Email</a>
+  </body>
+</html>
