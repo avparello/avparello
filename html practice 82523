@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<!--daily practice wooooooooo!!!!-->
+<html lang="en">
+<head>
+  <title>Patapon Haven</title>
+  <meta charset="UTF-8">
+  <meta name="author" content="Anthony">
+  <meta name="keywords" content="Patapon, Hetapon, Hexapon">
+  <meta name="description" content="Patapon wiki stuff">
+  <meta name="viewport" content="width-device-width, initial-scale=1.0">
+</head>
+<body>
+  <h1>Patapon Haven</h1>
+  <hr>
+  <figure>
+    <a href="https://patapon.fandom.com/wiki/Patapedia">
+      <img src="images/pataponwarrior.jpg" alt="Patapon warrior with a sword" height="300" title="Check out the wiki!"> 
+    </a>
+    <figcaption>This <u>is</u> a <b>warrior</b> patapon, made to <i>protect...</i></figcaption>
+  </figure>
+  <hr>
+  <p>Listen to his song of victory below, in honor for him.</p>
+  <audio muted controls loop>
+    <source src="audio/1-03. Hoi Ya Hoi! Festival.mp3">
+    <source src="audio/1-03. Hoi Ya Hoi! Festival.mp3">
+  </audio>
+  <hr>
+  <a target="_self" title="Check out google!" href="https://www.google.com/">Google</a>
+  <hr>
+  <a target="_self" title="Email me!" href="mailto:avparello@gmail.com">Email</a>
+  <hr>
+  <a target="_self" title="Check out page 2!" href="page2.html">Page 2</a>
+</body>
+</html>
+<!--below is page 2 of html-->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Page 2</title>
+  <meta charset="UTF-8">
+  <meta name="author" content="Anthony">
+  <meta name="keywords" content="Patapon, Hetapon, Hexapon">
+  <meta name="description" content="Patapon wiki stuff">
+  <meta name="viewport" content="width-device-width, initial-scale=1.0">
+</head>
+<body>
+  <p>Currently under maintnence, thank you.</p>
+  <audio autoplay loop>
+    <source src="audio/1-03. Hoi Ya Hoi! Festival.mp3">
+  </audio>
+</body>
+</html>
